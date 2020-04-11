@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_library_management/static/css/main.5d1dd0a9.chunk.css",
+    "main.js": "/react_library_management/static/js/main.82dd3951.chunk.js",
+    "main.js.map": "/react_library_management/static/js/main.82dd3951.chunk.js.map",
+    "runtime-main.js": "/react_library_management/static/js/runtime-main.b2a2a5ac.js",
+    "runtime-main.js.map": "/react_library_management/static/js/runtime-main.b2a2a5ac.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/react_library_management/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.d8f4b5bc.chunk.js": "/react_library_management/static/js/2.d8f4b5bc.chunk.js",
+    "static/js/2.d8f4b5bc.chunk.js.map": "/react_library_management/static/js/2.d8f4b5bc.chunk.js.map",
+    "index.html": "/react_library_management/index.html",
+    "precache-manifest.18dd72a7b9f416672bec5682ed0da185.js": "/react_library_management/precache-manifest.18dd72a7b9f416672bec5682ed0da185.js",
+    "service-worker.js": "/react_library_management/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/react_library_management/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.5d1dd0a9.chunk.css.map": "/react_library_management/static/css/main.5d1dd0a9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2a2a5ac.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.d8f4b5bc.chunk.js",
+    "static/css/main.5d1dd0a9.chunk.css",
+    "static/js/main.82dd3951.chunk.js"
+  ]
+}
